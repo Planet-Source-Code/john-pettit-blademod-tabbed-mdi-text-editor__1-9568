@@ -1,0 +1,11 @@
+BladeMod supports Drag & Drop! Simply drag any file(s) you wish to open onto the window.  BladeMod takes care of the rest!
+You can see the status of the NumLock, CapsLock, ScrollLock & Insert Keys by watching the 'live' status bar.
+To change a section of text's attributes - simply select the text and either select 'Format|Font...' from the menu or click on the 'Font' button on the toolbar.
+The toolbar makes it easier to edit font attributes and sizes, as well as accessing common functions and options.
+Changing the size of the font is even easier! Just use the font size selector on the toolbar.
+BladeMod is PostCardWare. This means that you get a fully funtional, multi-talented, file editor by simply sending an email with ideas, suggestions, comments, postcards from where you are, etc. and recieving a password to unlock the application.
+This program took quite a while to make test and debug.  You can show your appreciation by selecting the 'Help' menu and voting for 'BladeMod' on PlanetSourceCode.  Thanks for your interest in BladeMod :-)
+FUTURE ENHANCEMENT: Eventually Hex editing will be made possible in BladeMod; so you can edit binary files.
+FUTURE ENHANCEMENT: A spell checker will soon be added to help you make nice, correctly speeled text files.
+FUTURE ENHANCEMENT: Depending on demand, Microsoft DOC & Acrobat PDF files may also be supported.
+FUTURE ENHANCEMENT: Undo capability will be added in the neer future for added piece of mind.
